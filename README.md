@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **innovative front end devs who got a knack for UX**
 
-- 🤝 I’m looking for help with **backend tasks!**
+- 🤝 I’m looking for help with **Frontend tasks!**
 
 - 💬 Ask me about **Node and Express**
 
