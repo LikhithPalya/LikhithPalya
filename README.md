@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Likhith Palya</h1>
+<h1 align="center">Hi, my name is Likhith Palya</h1>
 <h3 align="center">A passionate Full Stack Developer with a stronghold in the Backend!</h3>
 
 - 🔭 I’m currently working on **learning to build a completely functional full stack social media application with a focus on grouping young people and keeping the nosy uncles and aunties out of your personal life :)**
